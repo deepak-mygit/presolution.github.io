@@ -411,3 +411,11 @@ footer{
 	background: #020a1c;
 	border: none;
 }
+@media(max-width:768px){
+	.user-form{
+		width:350px;
+	}
+	.user-form a{
+		padding-left:52%;
+	}	
+}
