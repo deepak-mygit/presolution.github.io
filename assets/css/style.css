@@ -413,9 +413,9 @@ footer{
 }
 @media(max-width:768px){
 	.user-form{
-		width:350px;
+		width:300px;
 	}
 	.user-form a{
-		padding-left:52%;
+		padding-left:48%;
 	}	
 }
